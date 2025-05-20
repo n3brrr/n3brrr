@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola, soy n3brrr! 👋
 
-<!--
-**n3brrr/n3brrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un **Front-End Developer** con pasión por la tecnología, la creatividad y el aprendizaje continuo. Me encanta crear experiencias web atractivas y funcionales, siempre buscando nuevas herramientas y tendencias para mejorar mis proyectos.
+
+## 🛠️ Tecnologías y habilidades principales
+
+- **Lenguajes:** JavaScript, HTML, CSS, Java, PHP
+- **Frameworks y herramientas:** Astro, Tailwind CSS
+- **Otras habilidades:** Desarrollo web responsivo, buenas prácticas de UI/UX, trabajo en equipo
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- **Astro**: Explorando nuevas formas de construir sitios web rápidos y modernos.
+
+---
+
+## 💡 Un poco más sobre mí
+
+- Entusiasta del código limpio y el aprendizaje autodidacta.
+- Siempre listo para enfrentar nuevos retos y colaborar en proyectos innovadores.
+- ¡Con muchas ganas de seguir creciendo como desarrollador!
+
+---
+
+<!-- Puedes agregar aquí tus redes sociales, portafolio o proyectos destacados si lo deseas -->
+
+¡Gracias por visitar mi perfil! 🚀
