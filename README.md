@@ -1,4 +1,4 @@
-[# ¡Hola, soy n3brrr! 👋
+# ¡Hola, soy n3brrr! 👋
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
@@ -31,4 +31,4 @@ Soy un **Front-End Developer** con pasión por la tecnología, la creatividad y 
 <!-- Puedes agregar aquí tus redes sociales, portafolio o proyectos destacados si lo deseas -->
 
 ¡Gracias por visitar mi perfil! 🚀
-](https://github.com/copilot/c/a013501e-8ca7-4832-80f2-d5ea74110d12)
+
