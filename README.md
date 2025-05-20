@@ -2,21 +2,31 @@
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
+---
+
 ## 🚀 Sobre mí
 
-Soy un **Front-End Developer** con pasión por la tecnología, la creatividad y el aprendizaje continuo. Me encanta crear experiencias web atractivas y funcionales, siempre buscando nuevas herramientas y tendencias para mejorar mis proyectos.
+Soy un **Front-End Developer** entusiasta, siempre con ganas de aprender y crecer. Me apasiona crear experiencias web atractivas, modernas y funcionales, explorando las tendencias más actuales.
 
-## 🛠️ Tecnologías y habilidades principales
+---
 
-- **Lenguajes:** JavaScript, HTML, CSS, Java, PHP
-- **Frameworks y herramientas:** Astro, Tailwind CSS
-- **Otras habilidades:** Desarrollo web responsivo, buenas prácticas de UI/UX, trabajo en equipo
+## 🛠️ Tecnologías y herramientas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="36" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="36" height="36"/>
+</div>
 
 ---
 
 ## 🌱 Actualmente aprendiendo
 
-- **Astro**: Explorando nuevas formas de construir sitios web rápidos y modernos.
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="24" height="24"/> **Astro**: Explorando nuevas formas de construir sitios web rápidos y modernos.
 
 ---
 
@@ -31,4 +41,3 @@ Soy un **Front-End Developer** con pasión por la tecnología, la creatividad y 
 <!-- Puedes agregar aquí tus redes sociales, portafolio o proyectos destacados si lo deseas -->
 
 ¡Gracias por visitar mi perfil! 🚀
-
