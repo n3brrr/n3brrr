@@ -1,6 +1,5 @@
-# ¡Hola, soy n3brrr! 👋
+# ¡Hola, soy Ruben! 👋
 
-¡Bienvenido/a a mi perfil de GitHub!
 
 ---
 
