@@ -33,7 +33,6 @@ Desarrollador **Frontend** apasionado por crear experiencias digitales modernas 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n3brrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3brrr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
