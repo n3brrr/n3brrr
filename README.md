@@ -60,9 +60,9 @@ Implementación del clásico autómata celular de Conway.
 ---
 
 ## 📫 Contacto
-- 📧 Email: **[tu-email-aquí@gmail.com]**
-- 💼 [LinkedIn](https://www.linkedin.com/) *(añádelo para reclutadores)*
-- 🌍 Portfolio personal: *(link a tu web/portafolio)*
+- 📧 Email: **rubentorresdev@gmail.com**
+- 💼 [LinkedIn]([https://www.linkedin.com/in/rubentorresdev/) 
+- 🌍 Portfolio personal: 
 
 ---
 
