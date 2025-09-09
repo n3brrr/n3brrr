@@ -1,69 +1,87 @@
-# 🚀 Rubén - Frontend Developer
+# 🚀 Rubén Torres - Frontend Developer
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=180&section=header&text=👋%20Hola,%20soy%20Rubén!&fontSize=36&fontColor=fff&animation=fadeIn)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;Astro+%26+Tailwind+Specialist;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</div>
 
 ## 👨‍💻 Sobre mí
-Soy un desarrollador **Frontend** apasionado por crear experiencias digitales modernas y atractivas.  
-Me gusta transformar ideas en interfaces funcionales usando **tecnologías actuales como Astro, Tailwind CSS y JavaScript**.  
-En constante aprendizaje y evolución, disfruto experimentar con nuevos frameworks y metodologías ágiles.  
 
----
+Desarrollador **Frontend** apasionado por crear experiencias digitales modernas y funcionales. Especializado en **Astro** y **Tailwind CSS**, transformo ideas en interfaces intuitivas y atractivas. En constante aprendizaje, siempre explorando nuevas tecnologías y mejores prácticas de desarrollo.
+
+📍 **Ubicación:** España  
+🌐 **Portfolio:** [En desarrollo]  
+📧 **Email:** rubentorresdev@gmail.com
 
 ## 🛠️ Stack Tecnológico
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend & CMS
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 🔧 Herramientas & DevOps
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3brrr&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n3brrr&theme=radical" alt="streak" height="160"/>
-</p>
 
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n3brrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3brrr&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 🏆 Proyectos Destacados
-### 🔹 [Fincalc](https://github.com/n3brrr/fincalc)
-Calculadora financiera desarrollada con **JavaScript**, enfocada en educación y práctica de lógica.  
-🔗 [Demo en vivo](#) *(añade enlace cuando lo subas a Netlify/Vercel)*  
 
-### 🔹 [The World Clock](https://github.com/n3brrr/The-World-Clock)
-Aplicación que muestra la hora en tiempo real en diferentes ciudades.  
+<div align="center">
 
-### 🔹 [The Game of Life](https://github.com/n3brrr/The-game-of-Live)
-Implementación del clásico autómata celular de Conway.  
+### 🧮 [Fincalc](https://github.com/n3brrr/fincalc)
+**Calculadora Financiera Interactiva**  
+`JavaScript` `HTML` `CSS`
 
----
+Una aplicación web para cálculos financieros educativos con interfaz intuitiva.  
+🔗 [Demo en vivo](https://tu-demo-link.netlify.app)
+
+### 🌍 [The World Clock](https://github.com/n3brrr/The-World-Clock)
+**Reloj Mundial en Tiempo Real**  
+`JavaScript` `API Integration` `CSS`
+
+Aplicación que muestra la hora actual en diferentes zonas horarias mundiales.  
+🔗 [Demo en vivo](https://tu-demo-link.netlify.app)
+
+### 🎮 [The Game of Life](https://github.com/n3brrr/The-game-of-Live)
+**Autómata Celular de Conway**  
+`JavaScript` `Canvas API` `CSS`
+
+Implementación interactiva del clásico juego de la vida de John Conway.  
+🔗 [Demo en vivo](https://tu-demo-link.netlify.app)
+
+</div>
 
 ## 📈 Contribuciones
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=n3brrr&theme=react-dark&hide_border=true&area=true)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n3brrr&theme=tokyo-night&hide_border=true" />
+</div>
+
+## 📫 Conecta conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rubentorresdev)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubentorresdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.vercel.app)
+
+</div>
 
 ---
 
-## 📫 Contacto
-- 📧 Email: **rubentorresdev@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/rubentorresdev/) 
-- 🌍 Portfolio personal: 
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=n3brrr&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
