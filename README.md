@@ -41,17 +41,35 @@ Desarrollador **Full Stack** apasionado por crear soluciones digitales completas
 
 <div align="center">
 
-### 🌍 [The World Clock](https://github.com/n3brrr/The-World-Clock)
+## 🎮 [Raveonous](https://github.com/n3brrr/Raveonous)
+**Plataforma Interactiva de Entretenimiento**  
+`JavaScript` `TypeScript` `CSS`
+
+Aplicación en desarrollado con tecnologías web modernas que combina JavaScript como lenguaje principal con TypeScript para mayor seguridad de tipos y CSS para estilos visuales atractivos.
+
+---
+## 🌦️ [WeatherApp](https://github.com/n3brrr/WeatherApp)
+**Aplicación del Clima en Tiempo Real**  
+`JavaScript` `CSS` `HTML`
+
+Aplicación meteorológica que integra JavaScript para la lógica funcional, HTML para la estructura y CSS para la presentación visual, ofreciendo una experiencia completa para consultar datos climáticos.
+
+---
+
+## 🌍 [The World Clock](https://github.com/n3brrr/The-World-Clock)
 **Reloj Mundial en Tiempo Real**  
 `JavaScript` `API Integration` `CSS`
 
-Aplicación que muestra la hora actual en diferentes zonas horarias mundiales.  
+Aplicación que muestra la hora actual en diferentes zonas horarias mundiales, utilizando JavaScript para la manipulación de datos temporales, integración de APIs para obtener información de zonas horarias y CSS para una interfaz visual clara.
 
-### 🎮 [The Game of Life](https://github.com/n3brrr/The-game-of-Live)
-**Autómata Celular de Conway**  
-`JavaScript` `Canvas API` `CSS`
+---
 
-Implementación interactiva del clásico juego de la vida de John Conway.  
+## 💈 [Web-Barbershop](https://github.com/n3brrr/Web-Barbershop)
+**Sitio Web de Barbería Profesional**  
+`Astro` `CSS` `JavaScript`
+
+Template de sitio web moderno construido con Astro como framework principal, complementado con CSS para diseño responsivo y JavaScript para interactividad, creando una presencia web profesional para servicios de barbería.
+
 
 </div>
 
