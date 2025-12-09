@@ -64,7 +64,7 @@ Projects showcasing my ability to integrate different technologies and deliver f
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Conect with me
 
 <div align="center">
 
