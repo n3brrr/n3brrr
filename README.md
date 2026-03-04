@@ -48,13 +48,13 @@ A results-driven **Full Stack Developer** focused on crafting **dynamic user exp
 
 ## 🏆 Featured Projects
 
-* ### 💔 [RitualKiller](https://github.com/n3brrr/RitualKiller) [DEMO](https://ritualkiller.vercel.app/)
+* ### 💔 [RitualKiller](https://github.com/n3brrr/RitualKiller) ││ [View](https://ritualkiller.vercel.app/)
   Modern App for traking habbits daily and voew your progess every day.
 
-* ### 🎮 [Raveonous](https://github.com/n3brrr/Raveonous)
+* ### 🎮 [Raveonous](https://github.com/n3brrr/Raveonous) ││ [View](https://cinemasters.vercel.app/)
   Interactive Entertainment Platform. Focus on **TypeScript** logic and scalable state management.
   
-* ### 🎬 [CineMaster](https://github.com/n3brrr/CineMaster)
+* ### 🎬 [CineMaster](https://github.com/n3brrr/CineMaster) ││ [View](https://raveonous.vercel.app/)
   Modern web application designed to seamlessly explore and discover movies
 
 ---
