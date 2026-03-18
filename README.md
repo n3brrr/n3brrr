@@ -13,7 +13,7 @@ A results-driven **Full Stack Developer** focused on crafting **dynamic user exp
 * 📍 **Location:** Spain (CET)
 * 📧 **Email:** rubentorresdev@gmail.com
 * 💼 **LinkedIn:** [rubentorresdev](https://linkedin.com/in/rubentorresdev)
-* 🚨 **Portfolio** [Ruben`s Portfolio](https://rubentorres.vercel.app/)
+* 🚨 **Portfolio:** [Portfolio](https://rubentorres.vercel.app/)
 
 ---
 
