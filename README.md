@@ -49,7 +49,7 @@ A results-driven **Full Stack Developer** focused on crafting **dynamic user exp
 ## 🏆 Featured Projects
 
 * ### 💔 [RitualKiller](https://github.com/n3brrr/RitualKiller) ││ [View](https://ritualkiller.vercel.app/)
-  Modern App for traking habbits daily and voew your progess every day.
+  Modern App for traking habbits daily and view your progess every day.
 
 * ### 🎮 [Raveonous](https://github.com/n3brrr/Raveonous) ││ [View](https://cinemasters.vercel.app/)
   Interactive Entertainment Platform. Focus on **TypeScript** logic and scalable state management.
@@ -62,8 +62,6 @@ A results-driven **Full Stack Developer** focused on crafting **dynamic user exp
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3brrr&show_icons=true&theme=tokyo-night&border_radius=10" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=n3brrr&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
