@@ -17,6 +17,32 @@ A results-driven **Full Stack Developer** focused on crafting **dynamic user exp
 
 ---
 
+## 🎮 Arcade Contributions
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/n3brrr/n3brrr/pacman-output/galaga-contribution-graph-dark.svg?game=galaga"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/n3brrr/n3brrr/pacman-output/galaga-contribution-graph.svg?game=galaga"
+    />
+    <img
+      alt="Galaga contribution graph"
+      src="https://raw.githubusercontent.com/n3brrr/n3brrr/pacman-output/galaga-contribution-graph.svg?game=galaga"
+      width="100%"
+    />
+  </picture>
+</div>
+
+<p align="center">
+  <i>Generated with <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></i>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend & Frameworks
