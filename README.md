@@ -37,10 +37,6 @@ A results-driven **Full Stack Developer** focused on crafting **dynamic user exp
   </picture>
 </div>
 
-<p align="center">
-  <i>Generated with <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></i>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
